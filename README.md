@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-0. [Poora flow: ek fact, do moves, 13 concepts](#0-poora-flow-ek-fact-do-moves-13-concepts)
+0. [Poora flow: 1 fact, 2 moves, 13 concepts](#0-poora-flow-ek-fact-do-moves-13-concepts)
 1. [Running example: Nida ka skincare brand](#running-example-nida-ka-skincare-brand)
 2. [2023 se ab tak kya badla](#2023-se-ab-tak-kya-badla)
 3. [PART 1: AI ko cheezein kaise pata hoti hain](#part-1-ai-ko-cheezein-kaise-pata-hoti-hain)
@@ -35,7 +35,7 @@
 
 ---
 
-## 0. Poora flow: ek fact, do moves, 13 concepts
+## 0. Poora flow: 1 fact, 2 moves, 13 concepts
 
 Is poore page ki buniyad **ek fact** hai:
 
@@ -54,9 +54,9 @@ Is fact se automatically **do moves** nikalti hain, aur page ki har "advanced te
    sources, examples)                  files, purani baaton ka shor)
 ```
 
-Isi liye page ko har section is nazar se parhna hai: *"Ye technique context andar la rahi hai ya bahar nikaal rahi hai?"*
 
-### 13 concepts ka nakshaa (4 parts)
+
+### 13 concepts ka map (4 parts)
 
 ```
 PART 1: JAWAB KAHAN SE AATA HAI?
@@ -87,9 +87,9 @@ Aap ek smart naye colleague ko brief karte hain (1). Wo internet parh kar seekha
 
 ---
 
-## Running example: Nida ka skincare brand
+## Running example: 
 
-Poore notes mein ek hi example chalayenge taake flow connected rahe.
+
 
 > **Nida** ek chhota skincare brand launch kar rahi hai (ek moisturizer aur ek sunscreen). Uske paas suppliers ke quotes hain, purani sales ka data hai, aur wo AI se madad lena chahti hai: product ka naam, pricing, market research, packaging, launch memo, sab kuch.
 
@@ -166,7 +166,7 @@ Briefing = files + goal + limits + exact ask. Novice sirf ask likhta hai.
 
 ## Concept 2: Pretrained knowledge
 
-### Easy samajh
+#
 
 **Pretrained knowledge** = jo model ne training text se seekha, bagair kisi lookup ke. AI ne duniya mein reh kar nahi seekha, us ne duniya ke baare mein **parh kar** seekha: Reddit, Wikipedia, kitabein, news, papers, blogs, forums. Isliye:
 
@@ -1107,16 +1107,7 @@ Har concept kis se juda hai, ek nazar mein:
                                farz
 ```
 
-### Layer D: Kaam ki qism aur grip
 
-```
- KAAM              TIGHT KARO                    DHEELA CHHORO
- ---------------   ---------------------------   ------------------------
- Brainstorming     masla, audience, avoid        shakal, tone, length
- Research          scope, sources, evidence      jawab (ummeed mat batao)
- Drafting          sab kuch                      lagbhag kuch nahi
- Analysis          data, definitions, sawal      conclusion (mat batao)
-```
 
 ### Layer E: Checking ki seedhi
 
@@ -1187,8 +1178,6 @@ Page ke 12 exercises ka nichor (apne alfaaz mein). Har ek kisi concept ko practi
 | 10 | Pomodoro timer: Goal/Input/Output, artifact ki shakal mein | 9 |
 | 11 | 18 numbers: pehle bina code ke, phir code chalwa kar; sahi jawab median 65.5, avg ~61.6, koi wazeh outlier nahi | 10 |
 | 12 | Wahi draft do mukhtalif families ke tools mein, wahi rubric, farq dekho | 13 |
-
-**Sab se qeemti sabaq, ek jumla mein:** *right context andar, wrong context bahar.* Baaqi sab uske roop hain.
 
 ---
 
