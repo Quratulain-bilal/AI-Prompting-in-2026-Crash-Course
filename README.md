@@ -1,10 +1,8 @@
 # AI Prompting in 2026 — Ek Connected Flow mein (13 Concepts)
 
 > **Source page:** [AI Prompting in 2026: A Crash Course](https://agentfactory.panaversity.org/docs/ai-prompting-2026) — The AI Agent Factory (Panaversity)
-> **Note:** Ye notes study ke liye apne alfaaz, apni examples aur apne diagrams mein likhe gaye hain. Original page zaroor parho, wahi authoritative hai. Page ke flashcards aur "Test Your Understanding" wale interactive hisson ko is file mein shamil nahi kiya gaya.
-> **Language:** Roman Urdu + English mix (English thori zyada)
 
----
+
 
 ## Table of Contents
 
